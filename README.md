@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avighub&label=Profile%20views&color=0e75b6&style=flat" alt="avighub" /> </p>
 
 <h3 align="left">About Me:</h3>
-<p>I am a passionate Test Engineer from India with more than 8 years of IT industry experience.
+<p>I am a passionate Test Engineer from India with more than 11 years of IT industry experience.
 <br>I like to learn and apply the technologies to improve the testing experience and produce a better quality of software.
-<br>I am curious and thoughtful person, who likes to participate in communities , events , conferences to meet, network and learn various areas in Testing.
+<br>I am a curious and thoughtful person, who likes to participate in communities, events, and conferences to meet, network and learn various areas in Testing.
 
 </p>
 
@@ -13,7 +13,7 @@
 
 - 📝My technical blogs at [https://techiewolf.tech.blog](https://techiewolf.tech.blog)
 
-- 💬 Ask me about <br>**Testing [Test planning , Strategy ,Risk analysis, Test scenarios/Ideas},<br> Test automation [Automation strategy, Test Framework building, Test tool selection , CI/CD integration**
+- 💬 Ask me about <br>**Testing [Test planning, Strategy , Risk analysis, Test scenarios/Ideas},<br> Test automation [Automation strategy, Test Framework building, Test tool selection, CI/CD integration**
 
 - 📫 How to reach me **avishekbehera87[at]gmail[dot]com**
 
